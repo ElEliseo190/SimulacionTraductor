@@ -1,4 +1,4 @@
-package JulioCesar;
+package Eliseo-JulioCesar;
 
 import javax.swing.*;
 import java.util.Scanner;
