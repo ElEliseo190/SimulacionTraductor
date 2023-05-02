@@ -1,4 +1,4 @@
-package Eliseo-JulioCesar;
+package EliseoSH_JulioCesar;
 
 import javax.swing.*;
 import java.util.Scanner;
@@ -10,11 +10,13 @@ public class SimuladorTraductor {
 
         Scanner en = new Scanner(System.in);
 
-        String TraductorP = JOptionPane.showInputDialog("Ingresa texto en (es_ES)");
+        String TraductorP = JOptionPane.showInputDialog("Ingresa texto en (es_ES)","TRADUCION DE ESPAÑOL");
 
         for(int i = 0; i<15; i++){
             if (TraductorP.equalsIgnoreCase(Lang_es_ES[i])){
-                JOptionPane.showMessageDialog(null,Lang_en_EN[i]);
+                JOptionPane.showMessageDialog(null,Lang_en_EN[i],"TRADUCCION A EPAÑOL", JOptionPane.INFORMATION_MESSAGE);
+            }else {
+                JOptionPane.showMessageDialog(null,"TRADUCTOR - PROBLEMAS\n\nERROR LOS DATOS INGRESADO NO SE ENCUENTRAN\nEN LA BASE DE DATOS","ERROR",JOptionPane.ERROR_MESSAGE);
             }
         }
     }
