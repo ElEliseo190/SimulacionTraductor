@@ -1,4 +1,4 @@
-<h1 align="center">SIMULACION DE TRADUCTOR <img src="https://giphy.com/embed/OiMzgSAIMs5q2sNIJZ" width="35"></h1>
+<h1 align="center">SIMULACION DE TRADUCTOR ![image](https://user-images.githubusercontent.com/128086397/235616737-0446cf38-37d9-4cec-be54-db5ed4de0b95.png)</h1>
 
 
 #INGRESANDO LOS DATOS EN es_ES:
