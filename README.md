@@ -11,7 +11,3 @@ Una ves iniciado el programa con tu IDE favortio te pedira que ingreses una pala
 Un aves que seingreo la palabra en es_ES te arojara un resultado con su traduccion de es_ES A en_EN
 
 ![image](https://user-images.githubusercontent.com/128086397/235616579-2a73c331-7bfa-4eee-8504-ebf4610cbdff.png)
-
-y si tu colocas una frase que no allas agrgado al programate altara un error 
-
-![image](https://user-images.githubusercontent.com/128086397/235618402-c7c15da8-5aaf-464a-bbd1-f9a89b02eb0b.png)
